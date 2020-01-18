@@ -2,8 +2,8 @@
 1st year school project creating Unity game ©Daniel Eggleton, Kim Widberg,  Annika Jõever +(some outsourced graphics, check GDD)
 
 School project making a game of your own choice in unity. Main aim was to make a mechanically working game and documenting it, but as an extra graphcis, audio etc. were added.
-Game should be playable, with a extra unityplayer.dll application and the files in repository excluding .cs, lisence and and raedme files.
+Game is playable through downloading repository and unzipping content. Game is under Game file
 
-.cs files added to repository, here is usermade code.
+Scripts zip includes code snippets for game functionality, made by the team. 
 
 Game development document added
